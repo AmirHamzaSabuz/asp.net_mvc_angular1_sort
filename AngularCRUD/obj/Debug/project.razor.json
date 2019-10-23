@@ -1,0 +1,19 @@
+{
+  "FilePath": "f:\\1.Final Projects\\2.ASP.NET_MVC_AngularJS_CRUD\\1.CRUD_Pankaj\\Practice\\Test\\AngularCRUD\\AngularCRUD.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
